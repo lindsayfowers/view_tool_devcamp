@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ViewToolDevcamp::Renderer.copyright 'Lindsay Fowers', 'All rights reserved'
+```
 
 ## Development
 
